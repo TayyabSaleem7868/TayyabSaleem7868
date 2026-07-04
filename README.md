@@ -8,4 +8,4 @@ I'm a web dev who’s basically obsessed with the JavaScript world. I spend most
 
 ---
 
-[Email](mailto:tayyab.saleem.94.69@gmail.com) | [LinkedIn](https://linkedin.com/in/tayyabsaleem94) | [Codepen](https://codepen.io/tayyabdotjs)
+[Email](mailto:dev.tayyabsaleem@gmail.com) | [LinkedIn](https://linkedin.com/in/tayyabsaleem94) | [Upwork](https://www.upwork.com/freelancers/~01bc13cc8df01598dd)
